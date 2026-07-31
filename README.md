@@ -1,6 +1,6 @@
 # Lab 2 - Conway's Game of Life
 
-Implementación del juego de la vida de Conway sobre un framebuffer propio, usando únicamente `point` (para pintar) y `get_color` (para leer el estado de una célula).
+Implementación del juego de Conway sobre un framebuffer .
 
 ![Juego de la vida corriendo](giflab2.gif)
 
